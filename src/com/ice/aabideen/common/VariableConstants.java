@@ -2,7 +2,7 @@ package com.ice.aabideen.common;
 
 /**
  * 
- * @author Aabideen
+ * @author Aabideens
  * 
  */
 public final class VariableConstants {
